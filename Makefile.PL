@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "Search model for soysuper",
+  "ABSTRACT" => "Nothing here to see yet!",
   "AUTHOR" => "Diego Kuperman <diego\@freekeylabs.com>",
   "BUILD_REQUIRES" => {},
   "CONFIGURE_REQUIRES" => {
@@ -19,14 +19,8 @@ my %WriteMakefileArgs = (
   "EXE_FILES" => [],
   "LICENSE" => "perl",
   "NAME" => "Supers::Search",
-  "PREREQ_PM" => {
-    "Elastic::Doc" => 0,
-    "Elastic::Model" => 0,
-    "MooseX::Types::Moose" => 0,
-    "MooseX::Types::Structured" => 0,
-    "Supers::Image::Identity" => 0
-  },
-  "VERSION" => "1.123430",
+  "PREREQ_PM" => {},
+  "VERSION" => "1.3",
   "test" => {
     "TESTS" => ""
   }

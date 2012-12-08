@@ -1,5 +1,5 @@
 ---
-abstract: 'Search model for soysuper'
+abstract: 'Nothing here to see yet!'
 author:
   - 'Diego Kuperman <diego@freekeylabs.com>'
 build_requires: {}
@@ -12,10 +12,4 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: Supers-Search
-requires:
-  Elastic::Doc: 0
-  Elastic::Model: 0
-  MooseX::Types::Moose: 0
-  MooseX::Types::Structured: 0
-  Supers::Image::Identity: 0
-version: 1.123430
+version: 1.3
