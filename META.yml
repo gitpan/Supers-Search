@@ -1,0 +1,21 @@
+---
+abstract: 'Search model for soysuper'
+author:
+  - 'Diego Kuperman <diego@freekeylabs.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Supers-Search
+requires:
+  Elastic::Doc: 0
+  Elastic::Model: 0
+  MooseX::Types::Moose: 0
+  MooseX::Types::Structured: 0
+  Supers::Image::Identity: 0
+version: 1.123430
