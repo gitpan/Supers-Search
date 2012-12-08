@@ -20,7 +20,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Supers::Search",
   "PREREQ_PM" => {},
-  "VERSION" => "1.3",
+  "VERSION" => "1.123431",
   "test" => {
     "TESTS" => ""
   }
